@@ -1,0 +1,38 @@
+/* Developed by Md. Khaledul Haque (Dip) */
+
+* {margin:0; padding:0}
+html {scroll-behavior:smooth}
+body {background:#ffffff;font-family: 'Chapaza'}
+.banner-text h1 {text-align:center;text-transform:uppercase;color:#fff}
+.nav-link:hover {color:#ffffff;border-bottom:1px solid #fff;transition: all 0.5s ease-in-out}
+.navbar-toggler {background:#fff;opacity:70%}
+.availability {position:relative;background:rgba(18, 13, 64, 0.9);border-radius:1rem;display:block;width:100%;margin:0 auto}
+.availability form {padding:3rem;color:#ffffff}
+.form-control {color:#fff}
+.my-class1 {font-family: 'Gilroy'}
+.my-class2 {background:transparent;border:none;width:5rem}
+.my-navs {width:160px;margin:0 auto}
+.my-navs a img:hover {background:#141321}
+.right-overlay {background:rgba(18, 13, 64, 0.9)}
+.right-overlay p {color:#fff;font-family: 'Gilroy';font-weight:bold}
+.my-button {border-color:#312782;color:#312782}
+.my-button:hover {color:#fff;background:#312782}
+.gallery-navs {width:210px;margin:0 auto}
+.gallery-navs a img:hover {background:#d4d2e9}
+address p {font-family: 'Gilroy'}
+.my-form {font-family: 'Gilroy';width:250px;margin-bottom:1.15rem;margin-top:1rem;background:#ebebeb;border:none;padding:30px 20px;border-radius:0px}
+.footer-top {background:#120d40}
+.social_icons {width:305px;margin:0 auto}
+.social_icons ul {margin:0;padding:0;list-style:none}
+.social_icons ul li {display:inline-block;padding:10px}
+.twitter:hover {background:#1DA1F2;border-radius:20px}
+.facebook:hover {background:#365492;border-radius:20px}
+.insta:hover {background:#B12483;border-radius:20px}
+.youtube:hover {background:#FF0000;border-radius:20px}
+.trip:hover {background:#34E0A1;border-radius:20px}
+.footer-bottom {background:#08042a;text-align:center;padding:30px 0 10px 0;color:#ffffff;font-family: 'Gilroy'}
+.fixed-top.scrolled {
+  background-color: rgba(0,0,0,0.7) !important;
+  transition: background-color 200ms linear;
+  top:0%;
+}
